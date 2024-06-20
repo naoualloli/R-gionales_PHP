@@ -1,0 +1,80 @@
+*{
+    font-size: large;
+}
+
+
+.container{
+    padding-top: 50px;
+    margin: 0px;
+}
+h2{
+    margin: 50px 0px;
+    text-decoration: underline;
+}
+
+#message{
+    width: 300px;
+    padding: 20px 5px;
+    margin-right: 500px;
+    font-size: x-large;
+}
+
+button{
+    padding: 5px;
+    height: 50px;
+}
+
+#personne{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgba(169, 169, 169, 0.685);
+    text-align: center;
+    cursor: pointer;
+}
+#box-2 svg{
+    width: 20px;
+    margin: 10px 0px;
+}
+
+#box-2 span{
+    margin: 0px 7px;
+}
+
+#box-2{
+    padding: 10px 0px;
+}
+
+#personne svg{
+    width: 70%;
+}
+#box{
+    padding: 40px 10px;
+    margin-left: 70px;
+}
+
+#box-1{
+    display: flex;
+    align-items: center;
+}
+
+#info{
+    margin-left: 20px;
+}
+
+svg{
+    cursor: pointer;
+}
+
+#box-2:hover{
+    background-color: rgba(3, 3, 179, 0.605);
+}
+
+table svg{
+    width: 20px;
+    margin: 10px 10px;
+}
+button a{
+    text-decoration: none;
+    color: aliceblue;
+}
